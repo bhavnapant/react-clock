@@ -1,0 +1,13 @@
+# React Clock
+
+Run Watch:
+$ npm run Watch
+
+Run in Local Mode:
+$ npm start
+
+Testing:
+$ npm test
+
+Deploy:
+$ npm run deploy
